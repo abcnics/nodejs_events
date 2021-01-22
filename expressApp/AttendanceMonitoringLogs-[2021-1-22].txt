@@ -1,0 +1,243 @@
+LOG timestamp: 1/22/2021 8:31:20 AM; Endpoint: /event/6007cd03b9dd710cb8ed0922; ReqParams: {"id":"6007cd03b9dd710cb8ed0922"}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 8:31:25 AM; Endpoint: /event/6007cd03b9dd710cb8ed0926; ReqParams: {"id":"6007cd03b9dd710cb8ed0926"}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 8:31:29 AM; Endpoint: /event/6007cd03b9dd710cb8ed0921; ReqParams: {"id":"6007cd03b9dd710cb8ed0921"}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 8:32:27 AM; Endpoint: /search?eventName=Java&dateStart=01/04/2021&dateEnd=01/30/2022; ReqParams: {}; ReqQuery: {"eventName":"Java","dateStart":"01/04/2021","dateEnd":"01/30/2022"}; ReqBody: {}
+LOG timestamp: 1/22/2021 8:35:32 AM; Endpoint: /search?eventName=Java&dateStart=01/04/2021&dateEnd=01/30/2021; ReqParams: {}; ReqQuery: {"eventName":"Java","dateStart":"01/04/2021","dateEnd":"01/30/2021"}; ReqBody: {}
+LOG timestamp: 1/22/2021 8:36:29 AM; Endpoint: /search?eventName=Java&dateStart=01/04/2021&dateEnd=01/30/2021; ReqParams: {}; ReqQuery: {"eventName":"Java","dateStart":"01/04/2021","dateEnd":"01/30/2021"}; ReqBody: {}
+LOG timestamp: 1/22/2021 8:37:13 AM; Endpoint: /search?eventName=Java&dateStart=01/04/2021&dateEnd=01/30/2021; ReqParams: {}; ReqQuery: {"eventName":"Java","dateStart":"01/04/2021","dateEnd":"01/30/2021"}; ReqBody: {}
+LOG timestamp: 1/22/2021 8:39:46 AM; Endpoint: /search?eventName=Java&dateStart=01/04/2021&dateEnd=01/30/2021; ReqParams: {}; ReqQuery: {"eventName":"Java","dateStart":"01/04/2021","dateEnd":"01/30/2021"}; ReqBody: {}
+LOG timestamp: 1/22/2021 8:40:25 AM; Endpoint: /search?eventName=Java&dateStart=01/04/2021&dateEnd=01/30/2021; ReqParams: {}; ReqQuery: {"eventName":"Java","dateStart":"01/04/2021","dateEnd":"01/30/2021"}; ReqBody: {}
+LOG timestamp: 1/22/2021 8:40:33 AM; Endpoint: /search?eventName=Java&dateStart=01/04/2021&dateEnd=01/30/2022; ReqParams: {}; ReqQuery: {"eventName":"Java","dateStart":"01/04/2021","dateEnd":"01/30/2022"}; ReqBody: {}
+LOG timestamp: 1/22/2021 8:40:40 AM; Endpoint: /search?eventName=Java&dateStart=01/04/2021&dateEnd=01/30/2021; ReqParams: {}; ReqQuery: {"eventName":"Java","dateStart":"01/04/2021","dateEnd":"01/30/2021"}; ReqBody: {}
+LOG timestamp: 1/22/2021 8:41:56 AM; Endpoint: /search?eventName=Java&dateStart=01/04/2021&dateEnd=01/30/2021; ReqParams: {}; ReqQuery: {"eventName":"Java","dateStart":"01/04/2021","dateEnd":"01/30/2021"}; ReqBody: {}
+LOG timestamp: 1/22/2021 8:44:30 AM; Endpoint: /search?eventName=Java&dateStart=01/04/2021&dateEnd=01/30/2021; ReqParams: {}; ReqQuery: {"eventName":"Java","dateStart":"01/04/2021","dateEnd":"01/30/2021"}; ReqBody: {}
+LOG timestamp: 1/22/2021 8:45:40 AM; Endpoint: /search?eventName=Java&dateStart=01/04/2021&dateEnd=01/30/2021; ReqParams: {}; ReqQuery: {"eventName":"Java","dateStart":"01/04/2021","dateEnd":"01/30/2021"}; ReqBody: {}
+LOG timestamp: 1/22/2021 8:48:59 AM; Endpoint: /search?eventName=Java&dateStart=01/04/2021&dateEnd=01/30/2021; ReqParams: {}; ReqQuery: {"eventName":"Java","dateStart":"01/04/2021","dateEnd":"01/30/2021"}; ReqBody: {}
+LOG timestamp: 1/22/2021 8:52:52 AM; Endpoint: /event/6007cd03b9dd710cb8ed0921; ReqParams: {"id":"6007cd03b9dd710cb8ed0921"}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 8:53:24 AM; Endpoint: /event/6007cd03b9dd710cb8ed0921; ReqParams: {"id":"6007cd03b9dd710cb8ed0921"}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 8:53:30 AM; Endpoint: /event/6007cd03b9dd710cb8ed0926; ReqParams: {"id":"6007cd03b9dd710cb8ed0926"}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 8:53:39 AM; Endpoint: /search?eventName=Java&dateStart=01/04/2021&dateEnd=01/30/2021; ReqParams: {}; ReqQuery: {"eventName":"Java","dateStart":"01/04/2021","dateEnd":"01/30/2021"}; ReqBody: {}
+LOG timestamp: 1/22/2021 8:53:42 AM; Endpoint: /search?eventName=Java&dateStart=01/04/2021&dateEnd=01/30/2022; ReqParams: {}; ReqQuery: {"eventName":"Java","dateStart":"01/04/2021","dateEnd":"01/30/2022"}; ReqBody: {}
+LOG timestamp: 1/22/2021 8:53:45 AM; Endpoint: /search?eventName=Java&dateStart=01/04/2021&dateEnd=01/30/2021; ReqParams: {}; ReqQuery: {"eventName":"Java","dateStart":"01/04/2021","dateEnd":"01/30/2021"}; ReqBody: {}
+LOG timestamp: 1/22/2021 8:55:31 AM; Endpoint: /search?eventName=Java&dateStart=01/04/2021&dateEnd=01/30/2021; ReqParams: {}; ReqQuery: {"eventName":"Java","dateStart":"01/04/2021","dateEnd":"01/30/2021"}; ReqBody: {}
+LOG timestamp: 1/22/2021 8:56:24 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {"type":"Master Class","startDate":"01/04/2021","endDate":"01/30/2021"}
+LOG timestamp: 1/22/2021 8:56:53 AM; Endpoint: /event/6007cd03b9dd710cb8ed0926; ReqParams: {"id":"6007cd03b9dd710cb8ed0926"}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 8:56:55 AM; Endpoint: /search?eventName=Java&dateStart=01/04/2021&dateEnd=01/30/2021; ReqParams: {}; ReqQuery: {"eventName":"Java","dateStart":"01/04/2021","dateEnd":"01/30/2021"}; ReqBody: {}
+LOG timestamp: 1/22/2021 8:57:21 AM; Endpoint: /search?eventName=Java&dateStart=01/04/2021&dateEnd=01/30/2021; ReqParams: {}; ReqQuery: {"eventName":"Java","dateStart":"01/04/2021","dateEnd":"01/30/2021"}; ReqBody: {}
+LOG timestamp: 1/22/2021 8:57:51 AM; Endpoint: /search?eventName=Java&dateStart=01/04/2021&dateEnd=01/30/2021; ReqParams: {}; ReqQuery: {"eventName":"Java","dateStart":"01/04/2021","dateEnd":"01/30/2021"}; ReqBody: {}
+LOG timestamp: 1/22/2021 9:05:30 AM; Endpoint: /search?eventName=Java&dateStart=01/04/2021&dateEnd=01/30/2021; ReqParams: {}; ReqQuery: {"eventName":"Java","dateStart":"01/04/2021","dateEnd":"01/30/2021"}; ReqBody: {}
+LOG timestamp: 1/22/2021 9:05:34 AM; Endpoint: /search?eventName=Java&dateStart=01/04/2021&dateEnd=01/30/2022; ReqParams: {}; ReqQuery: {"eventName":"Java","dateStart":"01/04/2021","dateEnd":"01/30/2022"}; ReqBody: {}
+LOG timestamp: 1/22/2021 9:06:05 AM; Endpoint: /search?eventName=Java&dateStart=01/04/2021&dateEnd=01/30/2022; ReqParams: {}; ReqQuery: {"eventName":"Java","dateStart":"01/04/2021","dateEnd":"01/30/2022"}; ReqBody: {}
+LOG timestamp: 1/22/2021 9:06:13 AM; Endpoint: /search?eventName=Java&dateStart=01/04/2021&dateEnd=01/30/2021; ReqParams: {}; ReqQuery: {"eventName":"Java","dateStart":"01/04/2021","dateEnd":"01/30/2021"}; ReqBody: {}
+LOG timestamp: 1/22/2021 9:10:10 AM; Endpoint: /event/6007cd03b9dd710cb8ed0926; ReqParams: {"id":"6007cd03b9dd710cb8ed0926"}; ReqQuery: {}; ReqBody: {"name":"Springboot 3","type":"Master Class","startDate":"01/04/2021","endDate":"01/30/2021"}
+LOG timestamp: 1/22/2021 9:14:06 AM; Endpoint: /event/6007cd03b9dd710cb8ed0926; ReqParams: {"id":"6007cd03b9dd710cb8ed0926"}; ReqQuery: {}; ReqBody: {"name":"Springboot 3","type":"Master Class","startDate":"01/04/2021","endDate":"01/30/2021"}
+LOG timestamp: 1/22/2021 9:14:10 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 9:15:02 AM; Endpoint: /event/6007cd03b9dd710cb8ed0922; ReqParams: {"id":"6007cd03b9dd710cb8ed0922"}; ReqQuery: {}; ReqBody: {"name":"Springboot 3","type":"Master Class","startDate":"01/04/2021","endDate":"01/30/2021"}
+LOG timestamp: 1/22/2021 9:15:19 AM; Endpoint: /event/6007cd03b9dd710cb8ed0922; ReqParams: {"id":"6007cd03b9dd710cb8ed0922"}; ReqQuery: {}; ReqBody: {"name":"Springboot 3","type":"Master Class","startDate":"01/04/2021","endDate":"01/30/2021"}
+LOG timestamp: 1/22/2021 9:18:03 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {"name":"Springboot 2","type":"Master Class","startDate":"01/04/2021","endDate":"01/30/2021"}
+LOG timestamp: 1/22/2021 9:18:12 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {"name":"Springboot 2","type":"Master Class","startDate":"01/04/2021","endDate":"01/30/2021"}
+LOG timestamp: 1/22/2021 9:18:16 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {"type":"Master Class","startDate":"01/04/2021","endDate":"01/30/2021"}
+LOG timestamp: 1/22/2021 9:18:19 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {"name":"Springboot 2","type":"Master Class","startDate":"01/04/2021","endDate":"01/30/2021"}
+LOG timestamp: 1/22/2021 9:20:41 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {"name":"Springboot 2","type":"Master Class","startDate":"01/04/2021","endDate":"01/30/2021"}
+LOG timestamp: 1/22/2021 9:20:48 AM; Endpoint: /event/6007cd03b9dd710cb8ed0922; ReqParams: {"id":"6007cd03b9dd710cb8ed0922"}; ReqQuery: {}; ReqBody: {"name":"Springboot 3","type":"Master Class","startDate":"01/04/2021","endDate":"01/30/2021"}
+LOG timestamp: 1/22/2021 9:20:57 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 9:21:05 AM; Endpoint: /event/6008d63e334d124874f8c1fb; ReqParams: {"id":"6008d63e334d124874f8c1fb"}; ReqQuery: {}; ReqBody: {"name":"Springboot 3","type":"Master Class","startDate":"01/04/2021","endDate":"01/30/2021"}
+LOG timestamp: 1/22/2021 9:21:09 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 9:22:58 AM; Endpoint: /event/6008d63e334d124874f8c1fb; ReqParams: {"id":"6008d63e334d124874f8c1fb"}; ReqQuery: {}; ReqBody: {"name":"Springboot 3","type":"Master Class","startDate":"01/04/2021","endDate":"01/30/2021"}
+LOG timestamp: 1/22/2021 9:24:12 AM; Endpoint: /event/6008d63e334d124874f8c1fb; ReqParams: {"id":"6008d63e334d124874f8c1fb"}; ReqQuery: {}; ReqBody: {"name":"Springboot 3","type":"Master Class","startDate":"01/04/2021","endDate":"01/30/2021"}
+LOG timestamp: 1/22/2021 9:24:19 AM; Endpoint: /event/6008d63e334d124874f8c1fb; ReqParams: {"id":"6008d63e334d124874f8c1fb"}; ReqQuery: {}; ReqBody: {"name":"Springboot 3","type":"Master Class","startDate":"01/04/2021","endDate":"01/30/2021"}
+LOG timestamp: 1/22/2021 9:24:33 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 9:25:47 AM; Endpoint: /event/6008d63e334d124874f8c1fb; ReqParams: {"id":"6008d63e334d124874f8c1fb"}; ReqQuery: {}; ReqBody: {"name":"Springboot 3","type":"Master Class","startDate":"01/04/2021","endDate":"01/30/2021"}
+LOG timestamp: 1/22/2021 9:26:52 AM; Endpoint: /event/6008d63e334d124874f8c1fb; ReqParams: {"id":"6008d63e334d124874f8c1fb"}; ReqQuery: {}; ReqBody: {"name":"Springboot 3","type":"Master Class","startDate":"01/04/2021","endDate":"01/30/2021"}
+LOG timestamp: 1/22/2021 9:27:25 AM; Endpoint: /event/6008d63e334d124874f8c1fb; ReqParams: {"id":"6008d63e334d124874f8c1fb"}; ReqQuery: {}; ReqBody: {"name":"Springboot 3","type":"Master Class","startDate":"01/04/2021","endDate":"01/30/2021"}
+LOG timestamp: 1/22/2021 9:27:47 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 9:27:59 AM; Endpoint: /event/6008d63e334d124874f8c1fb; ReqParams: {"id":"6008d63e334d124874f8c1fb"}; ReqQuery: {}; ReqBody: {"name":"Springboot 4","type":"Master Class","startDate":"01/04/2021","endDate":"01/30/2021"}
+LOG timestamp: 1/22/2021 9:28:30 AM; Endpoint: /event/6008d63e334d124874f8c1fb; ReqParams: {"id":"6008d63e334d124874f8c1fb"}; ReqQuery: {}; ReqBody: {"name":"Springboot 4","type":"Master Class","startDate":"01/04/2021","endDate":"01/30/2021"}
+LOG timestamp: 1/22/2021 9:29:05 AM; Endpoint: /event/6008d63e334d124874f8c1fb; ReqParams: {"id":"6008d63e334d124874f8c1fb"}; ReqQuery: {}; ReqBody: {"name":"Springboot 4","type":"Master Class","startDate":"01/04/2021","endDate":"01/30/2021"}
+LOG timestamp: 1/22/2021 9:29:23 AM; Endpoint: /event/6008d63e334d124874f8c1fb; ReqParams: {"id":"6008d63e334d124874f8c1fb"}; ReqQuery: {}; ReqBody: {"name":"Springboot 4","type":"Master Class","startDate":"01/04/2021","endDate":"01/30/2021"}
+LOG timestamp: 1/22/2021 9:29:53 AM; Endpoint: /event/6008d63e334d124874f8c1fb; ReqParams: {"id":"6008d63e334d124874f8c1fb"}; ReqQuery: {}; ReqBody: {"name":"Springboot 4","type":"Master Class","startDate":"01/04/2021","endDate":"01/30/2021"}
+LOG timestamp: 1/22/2021 9:30:06 AM; Endpoint: /event/6008d63e334d124874f8c1fb; ReqParams: {"id":"6008d63e334d124874f8c1fb"}; ReqQuery: {}; ReqBody: {"name":"Springboot 4","type":"Master Class","startDate":"01/04/2021","endDate":"01/30/2021"}
+LOG timestamp: 1/22/2021 9:31:53 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 9:32:36 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 9:32:44 AM; Endpoint: /event/6008d63e334d124874f8c1f1; ReqParams: {"id":"6008d63e334d124874f8c1f1"}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 9:32:47 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 9:35:17 AM; Endpoint: /event/6008d63e334d124874f8c1f1; ReqParams: {"id":"6008d63e334d124874f8c1f1"}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 9:35:33 AM; Endpoint: /event/6008d63e334d124874f8c1f1; ReqParams: {"id":"6008d63e334d124874f8c1f1"}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 9:36:04 AM; Endpoint: /event/6008d63e334d124874f8c1f1; ReqParams: {"id":"6008d63e334d124874f8c1f1"}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 9:40:00 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {"name":"Springboot 2","type":"Master Class","startDate":"01/04/2022","endDate":"01/30/2021"}
+LOG timestamp: 1/22/2021 9:40:40 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {"name":"Springboot 2","type":"Master Class","startDate":"01/04/2022","endDate":"01/30/2021"}
+LOG timestamp: 1/22/2021 9:41:27 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {"name":"Springboot 2","type":"Master Class","startDate":"01/04/2022","endDate":"01/30/2021"}
+LOG timestamp: 1/22/2021 9:41:34 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 9:42:08 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {"name":"Springboot 2","type":"Master Class","startDate":"01/04/2022","endDate":"01/30/2021"}
+LOG timestamp: 1/22/2021 9:42:19 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {"name":"Springboot 2","type":"Master Class","startDate":"01/04/2022","endDate":"01/30/2021"}
+LOG timestamp: 1/22/2021 9:44:11 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {"name":"Springboot 2","type":"Master Class","startDate":"01/04/2022","endDate":"01/30/2021"}
+LOG timestamp: 1/22/2021 9:45:43 AM; Endpoint: /event/6008d63e334d124874f8c1fb; ReqParams: {"id":"6008d63e334d124874f8c1fb"}; ReqQuery: {}; ReqBody: {"name":"Springboot 4","type":"Master Class","startDate":"01/04/2022","endDate":"01/30/2021"}
+LOG timestamp: 1/22/2021 9:45:47 AM; Endpoint: /event/6008d63e334d124874f8c1fb; ReqParams: {"id":"6008d63e334d124874f8c1fb"}; ReqQuery: {}; ReqBody: {"name":"Springboot 3","type":"Master Class","startDate":"01/04/2022","endDate":"01/30/2021"}
+LOG timestamp: 1/22/2021 9:47:39 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 9:47:49 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 10:48:09 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 10:48:21 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {"name":"Marc Penano II","status":"Active"}
+LOG timestamp: 1/22/2021 10:48:25 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {"name":"Marc Penano","status":"Active"}
+LOG timestamp: 1/22/2021 10:50:48 AM; Endpoint: /member/6007cc1d5bca54396458e413; ReqParams: {"id":"6007cc1d5bca54396458e413"}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 10:51:22 AM; Endpoint: /member/6007cc1d5bca54396458e413; ReqParams: {"id":"6007cc1d5bca54396458e413"}; ReqQuery: {}; ReqBody: {"name":"Marc Penano","status":"Inactive"}
+LOG timestamp: 1/22/2021 10:51:27 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 10:52:02 AM; Endpoint: /member/6007cc1d5bca54396458e413; ReqParams: {"id":"6007cc1d5bca54396458e413"}; ReqQuery: {}; ReqBody: {"name":"Marc Penano A","status":"Inactive"}
+LOG timestamp: 1/22/2021 10:52:05 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 10:52:39 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 10:52:49 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {"name":"Marc Penano","status":"Active"}
+LOG timestamp: 1/22/2021 10:52:51 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {"name":"Marc Penano","status":"Active"}
+LOG timestamp: 1/22/2021 10:52:56 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 10:53:01 AM; Endpoint: /member/600a3e010873ce5390577900; ReqParams: {"id":"600a3e010873ce5390577900"}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 10:53:04 AM; Endpoint: /member/600a3e010873ce5390577901; ReqParams: {"id":"600a3e010873ce5390577901"}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 10:53:16 AM; Endpoint: /search?name=Marc%20Penano&status=Active; ReqParams: {}; ReqQuery: {"name":"Marc Penano","status":"Active"}; ReqBody: {}
+LOG timestamp: 1/22/2021 10:53:21 AM; Endpoint: /search?name=Marc%20Penano%20aa&status=Active; ReqParams: {}; ReqQuery: {"name":"Marc Penano aa","status":"Active"}; ReqBody: {}
+LOG timestamp: 1/22/2021 10:54:20 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 10:54:27 AM; Endpoint: /member/6007cc1d5bca54396458e413; ReqParams: {"id":"6007cc1d5bca54396458e413"}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 10:54:32 AM; Endpoint: /search?name=Marc%20Peneno&status=Active; ReqParams: {}; ReqQuery: {"name":"Marc Peneno","status":"Active"}; ReqBody: {}
+LOG timestamp: 1/22/2021 10:54:40 AM; Endpoint: /search?name=Marc%20Penano&status=Active; ReqParams: {}; ReqQuery: {"name":"Marc Penano","status":"Active"}; ReqBody: {}
+LOG timestamp: 1/22/2021 10:54:42 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 10:54:53 AM; Endpoint: /member/6007cc1d5bca54396458e413; ReqParams: {"id":"6007cc1d5bca54396458e413"}; ReqQuery: {}; ReqBody: {"name":"Marc Penano BBB","status":"Inactive"}
+LOG timestamp: 1/22/2021 10:54:59 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 10:55:13 AM; Endpoint: /member/6007cc1d5bca54396458e413; ReqParams: {"id":"6007cc1d5bca54396458e413"}; ReqQuery: {}; ReqBody: {"name":"Marc Penano BBB","status":"Active"}
+LOG timestamp: 1/22/2021 10:55:16 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 10:55:24 AM; Endpoint: /member/6007cc1d5bca54396458e413; ReqParams: {"id":"6007cc1d5bca54396458e413"}; ReqQuery: {}; ReqBody: {"name":"Marc Penano BBB AAAA","status":"Inactive"}
+LOG timestamp: 1/22/2021 10:55:27 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 10:55:39 AM; Endpoint: /member/6007cc1d5bca54396458e411; ReqParams: {"id":"6007cc1d5bca54396458e411"}; ReqQuery: {}; ReqBody: {"name":"Marc Penano BBB AAAA","status":"Inactive"}
+LOG timestamp: 1/22/2021 10:55:43 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 10:55:50 AM; Endpoint: /member/6007cc1d5bca54396458e41A; ReqParams: {"id":"6007cc1d5bca54396458e41A"}; ReqQuery: {}; ReqBody: {"name":"Marc Penano BBB AAAA","status":"Inactive"}
+LOG timestamp: 1/22/2021 10:55:53 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 10:56:39 AM; Endpoint: /member/6007cc1d5bca54396458e4AA; ReqParams: {"id":"6007cc1d5bca54396458e4AA"}; ReqQuery: {}; ReqBody: {"name":"Marc Penano BBB AAAA","status":"Inactive"}
+LOG timestamp: 1/22/2021 10:57:48 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 10:57:54 AM; Endpoint: /member/6007cc1d5bca54396458e4AA; ReqParams: {"id":"6007cc1d5bca54396458e4AA"}; ReqQuery: {}; ReqBody: {"name":"Marc Penano BBB AAAA","status":"Inactive"}
+LOG timestamp: 1/22/2021 10:58:07 AM; Endpoint: /member/6007cc1d5bca54396458e413; ReqParams: {"id":"6007cc1d5bca54396458e413"}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 10:58:12 AM; Endpoint: /member/6007cc1d5bca54396458eAAA; ReqParams: {"id":"6007cc1d5bca54396458eAAA"}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 11:05:45 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 11:05:55 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 11:06:14 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {"eventId":"6008d63e334d124874f8c1fb","memberId":"600a3e010873ce5390577900","timeIn":"01/19/2021","timeOut":"01/19/2021"}
+LOG timestamp: 1/22/2021 11:06:17 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 11:12:18 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 11:12:53 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 11:13:25 AM; Endpoint: /attendance/600a41269eaf85401022bc6d; ReqParams: {"id":"600a41269eaf85401022bc6d"}; ReqQuery: {}; ReqBody: {"eventId":"6008d42563ee2c42248c3547","memberId":"600a3e010873ce5390577900","timeIn":"01/19/2021","timeOut":"01/19/2021"}
+LOG timestamp: 1/22/2021 11:13:30 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 11:15:14 AM; Endpoint: /attendance/600a41269eaf85401022bc6d; ReqParams: {"id":"600a41269eaf85401022bc6d"}; ReqQuery: {}; ReqBody: {"eventId":"6008d53db204100fdc1a6144","memberId":"600a3cf5074c32506caff2bf","timeIn":"01/19/2021","timeOut":"01/19/2021"}
+LOG timestamp: 1/22/2021 11:15:18 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 11:15:20 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 11:15:20 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 11:15:21 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 11:16:21 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 11:16:24 AM; Endpoint: /attendance/600a41269eaf85401022bc6d; ReqParams: {"id":"600a41269eaf85401022bc6d"}; ReqQuery: {}; ReqBody: {"eventId":"6008d53db204100fdc1a6144","memberId":"600a3cf5074c32506caff2bf","timeIn":"01/19/2021","timeOut":"01/19/2021"}
+LOG timestamp: 1/22/2021 11:16:26 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 11:30:23 AM; Endpoint: /attendance/6006c44e87271237305724BB; ReqParams: {"id":"6006c44e87271237305724BB"}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 11:30:29 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 11:30:40 AM; Endpoint: /attendance/600a41269eaf85401022bc6d; ReqParams: {"id":"600a41269eaf85401022bc6d"}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 11:33:35 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {"eventId":"6008d63e334d124874f8c1fb","memberId":"600a3e010873ce5390577900","timeIn":"01/19/2021","timeOut":"01/19/2021"}
+LOG timestamp: 1/22/2021 11:34:11 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {"eventId":"6008d63e334d124874f8c1fb","memberId":"600a3e010873ce5390577900","timeIn":"01/19/2021","timeOut":"01/19/2021"}
+LOG timestamp: 1/22/2021 11:34:23 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {"eventId":"6008d63e334d124874f8c1fb","memberId":"600a3e010873ce5390577900","timeIn":"01/19/2021","timeOut":"01/19/2021"}
+LOG timestamp: 1/22/2021 11:37:09 AM; Endpoint: /attendance/600a41269eaf85401022bc6d; ReqParams: {"id":"600a41269eaf85401022bc6d"}; ReqQuery: {}; ReqBody: {"eventId":"6008d53db204100fdc1a6144","memberId":"600a3cf5074c32506caff2bf","timeIn":"01/19/2021","timeOut":"01/19/2021"}
+LOG timestamp: 1/22/2021 11:37:44 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 11:38:59 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 11:39:06 AM; Endpoint: /attendance/600a41269eaf85401022bc6d; ReqParams: {"id":"600a41269eaf85401022bc6d"}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 11:39:08 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 11:39:11 AM; Endpoint: /attendance/600a478f8458431fecb86eb1; ReqParams: {"id":"600a478f8458431fecb86eb1"}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 11:39:12 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 11:39:16 AM; Endpoint: /attendance/600a47b3d0833e4cc44bdb4a; ReqParams: {"id":"600a47b3d0833e4cc44bdb4a"}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 11:39:18 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 11:39:22 AM; Endpoint: /attendance/600a47bfe93d5a1a445783b1; ReqParams: {"id":"600a47bfe93d5a1a445783b1"}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 11:39:24 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 11:39:28 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {"eventId":"6008d63e334d124874f8c1fb","memberId":"600a3e010873ce5390577900","timeIn":"01/19/2021","timeOut":"01/19/2021"}
+LOG timestamp: 1/22/2021 11:39:36 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 11:39:53 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 11:40:19 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 11:40:27 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 11:40:31 AM; Endpoint: /attendance/600a48f0e93d5a1a445783b2; ReqParams: {"id":"600a48f0e93d5a1a445783b2"}; ReqQuery: {}; ReqBody: {"eventId":"6007cd03b9dd710cb8ed0926","memberId":"600a3cf5074c32506caff2bf","timeIn":"01/19/2021","timeOut":"01/19/2021"}
+LOG timestamp: 1/22/2021 11:40:33 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 11:45:19 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 11:45:22 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {"eventId":"6008d63e334d124874f8c1fb","memberId":"600a3e010873ce5390577900","timeIn":"01/19/2021","timeOut":"01/19/2021"}
+LOG timestamp: 1/22/2021 11:46:08 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {"eventId":"6008d63e334d124874f8c1fb","memberId":"600a3e010873ce5390577900","timeIn":"01/19/2021","timeOut":"01/19/2021"}
+LOG timestamp: 1/22/2021 11:46:11 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 11:50:49 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {"eventId":"6008d63e334d124874f8c1fb","memberId":"600a3e010873ce5390577900","timeIn":"01/19/2021","timeOut":"01/19/2021"}
+LOG timestamp: 1/22/2021 11:51:12 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {"eventId":"6008d63e334d124874f8c1BB","memberId":"600a3e010873ce5390577900","timeIn":"01/19/2021","timeOut":"01/19/2021"}
+LOG timestamp: 1/22/2021 11:51:16 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {"eventId":"6008d63e334d124874f8c1fb","memberId":"600a3e010873ce5390577900","timeIn":"01/19/2021","timeOut":"01/19/2021"}
+LOG timestamp: 1/22/2021 11:51:18 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 11:51:29 AM; Endpoint: /attendance/600a4a802f9d034e9439063a; ReqParams: {"id":"600a4a802f9d034e9439063a"}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 11:51:30 AM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:02:03 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:02:29 PM; Endpoint: /attendance/600a48f0e93d5a1a445783b2; ReqParams: {"id":"600a48f0e93d5a1a445783b2"}; ReqQuery: {}; ReqBody: {"eventId":"6007cd03b9dd710cb8ed0926","memberId":"600a3e010873ce5390577900","timeIn":"01/19/2021","timeOut":"01/19/2021"}
+LOG timestamp: 1/22/2021 12:02:54 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:03:00 PM; Endpoint: /attendance/600a48f0e93d5a1a445783b2; ReqParams: {"id":"600a48f0e93d5a1a445783b2"}; ReqQuery: {}; ReqBody: {"eventId":"6007cd03b9dd710cb8ed0926","memberId":"600a3e010873ce5390577900","timeIn":"01/19/2021","timeOut":"01/19/2021"}
+LOG timestamp: 1/22/2021 12:03:02 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:03:11 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:03:21 PM; Endpoint: /attendance/600a48f0e93d5a1a445783b2; ReqParams: {"id":"600a48f0e93d5a1a445783b2"}; ReqQuery: {}; ReqBody: {"eventId":"6007cd03b9dd710cb8ed0926","memberId":"600a3e010873ce5390577900","timeIn":"01/19/2021","timeOut":"01/19/2021"}
+LOG timestamp: 1/22/2021 12:03:23 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:03:48 PM; Endpoint: /attendance/600a48f0e93d5a1a445783b2; ReqParams: {"id":"600a48f0e93d5a1a445783b2"}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:03:53 PM; Endpoint: /attendance/600a4b99a2488d46f0926e1f; ReqParams: {"id":"600a4b99a2488d46f0926e1f"}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:03:55 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:03:59 PM; Endpoint: /attendance/600a4bb0a2488d46f0926e20; ReqParams: {"id":"600a4bb0a2488d46f0926e20"}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:04:02 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:04:07 PM; Endpoint: /attendance/600a4bb4a2488d46f0926e21; ReqParams: {"id":"600a4bb4a2488d46f0926e21"}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:04:34 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {"eventId":"6007cd03b9dd710cb8ed0926","memberId":"600a3e010873ce5390577900","timeIn":"01/19/2021","timeOut":"01/19/2021"}
+LOG timestamp: 1/22/2021 12:04:41 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:05:30 PM; Endpoint: /attendance/600a4ed25f11cf0344ea28eb; ReqParams: {"id":"600a4ed25f11cf0344ea28eb"}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:05:33 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:05:36 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {"eventId":"6007cd03b9dd710cb8ed0926","memberId":"600a3e010873ce5390577900","timeIn":"01/19/2021","timeOut":"01/19/2021"}
+LOG timestamp: 1/22/2021 12:05:44 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:06:14 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {"eventId":"6007cd03b9dd710cb8ed0926","memberId":"600a3e010873ce5390577900","timeIn":"01/19/2021","timeOut":"01/19/2021"}
+LOG timestamp: 1/22/2021 12:06:20 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:06:46 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:06:50 PM; Endpoint: /attendance/600a4f1050c0fc5448b5bd91; ReqParams: {"id":"600a4f1050c0fc5448b5bd91"}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:06:52 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:06:55 PM; Endpoint: /attendance/600a4f36a5230c1314afc0cd; ReqParams: {"id":"600a4f36a5230c1314afc0cd"}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:06:57 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:06:58 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {"eventId":"6007cd03b9dd710cb8ed0926","memberId":"600a3e010873ce5390577900","timeIn":"01/19/2021","timeOut":"01/19/2021"}
+LOG timestamp: 1/22/2021 12:07:02 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:07:09 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:07:20 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {"eventId":"6007cd03b9dd710cb8ed0926","memberId":"600a3e010873ce5390577900","timeIn":"01/19/2021","timeOut":"01/19/2021"}
+LOG timestamp: 1/22/2021 12:10:57 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:10:59 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {"eventId":"6007cd03b9dd710cb8ed0926","memberId":"600a3e010873ce5390577900","timeIn":"01/19/2021","timeOut":"01/19/2021"}
+LOG timestamp: 1/22/2021 12:11:24 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:11:27 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {"eventId":"6007cd03b9dd710cb8ed0926","memberId":"600a3e010873ce5390577900","timeIn":"01/19/2021","timeOut":"01/19/2021"}
+LOG timestamp: 1/22/2021 12:11:30 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:11:36 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {"eventId":"6007cd03b9dd710cb8ed0926","memberId":"600a3e010873ce5390577900","timeIn":"01/19/2021","timeOut":"01/19/2021"}
+LOG timestamp: 1/22/2021 12:11:39 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:11:57 PM; Endpoint: /attendance/600a5078138c4201b86ecbc8; ReqParams: {"id":"600a5078138c4201b86ecbc8"}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:11:59 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:12:09 PM; Endpoint: /attendance/600a506f138c4201b86ecbc7; ReqParams: {"id":"600a506f138c4201b86ecbc7"}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:12:43 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:13:51 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:13:53 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {"eventId":"6007cd03b9dd710cb8ed0926","memberId":"600a3e010873ce5390577900","timeIn":"01/19/2021","timeOut":"01/19/2021"}
+LOG timestamp: 1/22/2021 12:13:55 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:14:30 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:14:31 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:14:37 PM; Endpoint: /attendance/600a5101075dc623e0625063; ReqParams: {"id":"600a5101075dc623e0625063"}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:14:38 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:14:41 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {"eventId":"6007cd03b9dd710cb8ed0926","memberId":"600a3e010873ce5390577900","timeIn":"01/19/2021","timeOut":"01/19/2021"}
+LOG timestamp: 1/22/2021 12:14:55 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:15:22 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:15:25 PM; Endpoint: /attendance/600a51315680c1480422f042; ReqParams: {"id":"600a51315680c1480422f042"}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:15:27 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {"eventId":"6007cd03b9dd710cb8ed0926","memberId":"600a3e010873ce5390577900","timeIn":"01/19/2021","timeOut":"01/19/2021"}
+LOG timestamp: 1/22/2021 12:15:30 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:15:36 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {"eventId":"6007cd03b9dd710cb8ed0926","memberId":"600a3e010873ce5390577900","timeIn":"01/19/2021","timeOut":"01/19/2021"}
+LOG timestamp: 1/22/2021 12:15:39 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:15:57 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:16:11 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {"eventId":"6007cd03b9dd710cb8ed0926","memberId":"600a3e010873ce5390577900","timeIn":"01/19/2021","timeOut":"01/19/2021"}
+LOG timestamp: 1/22/2021 12:16:21 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:16:32 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {"eventId":"6007cd03b9dd710cb8ed0926","memberId":"600a3cf5074c32506caff2bf","timeIn":"01/19/2021","timeOut":"01/19/2021"}
+LOG timestamp: 1/22/2021 12:16:34 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:17:02 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:17:15 PM; Endpoint: /attendance/600a48f0e93d5a1a445783b2; ReqParams: {"id":"600a48f0e93d5a1a445783b2"}; ReqQuery: {}; ReqBody: {"eventId":"6008d42563ee2c42248c3547","memberId":"600a3cf5074c32506caff2bf","timeIn":"01/19/2021","timeOut":"01/19/2021"}
+LOG timestamp: 1/22/2021 12:18:09 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:20:32 PM; Endpoint: /attendance/600a48f0e93d5a1a445783b2; ReqParams: {"id":"600a48f0e93d5a1a445783b2"}; ReqQuery: {}; ReqBody: {"eventId":"6008d42563ee2c42248c3547","memberId":"600a3cf5074c32506caff2bf","timeIn":"01/19/2021","timeOut":"01/19/2021"}
+LOG timestamp: 1/22/2021 12:20:47 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:21:07 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:21:22 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:21:36 PM; Endpoint: /attendance/600a51a0fd8ebd1794cba444; ReqParams: {"id":"600a51a0fd8ebd1794cba444"}; ReqQuery: {}; ReqBody: {"eventId":"6008d42563ee2c42248c3547","memberId":"600a3e010873ce5390577900","timeIn":"01/19/2021","timeOut":"01/19/2021"}
+LOG timestamp: 1/22/2021 12:21:39 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:21:58 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:22:16 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:22:31 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {"name":"Marc Penano AAA","status":"Active"}
+LOG timestamp: 1/22/2021 12:22:38 PM; Endpoint: /attendance/600a51a0fd8ebd1794cba444; ReqParams: {"id":"600a51a0fd8ebd1794cba444"}; ReqQuery: {}; ReqBody: {"eventId":"6008d42563ee2c42248c3547","memberId":"600a530760959d45547ae472","timeIn":"01/19/2021","timeOut":"01/19/2021"}
+LOG timestamp: 1/22/2021 12:22:40 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:23:43 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:23:46 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {"eventId":"6007cd03b9dd710cb8ed0926","memberId":"600a3cf5074c32506caff2bf","timeIn":"01/19/2021","timeOut":"01/19/2021"}
+LOG timestamp: 1/22/2021 12:23:49 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
+LOG timestamp: 1/22/2021 12:24:08 PM; Endpoint: /; ReqParams: {}; ReqQuery: {}; ReqBody: {}
